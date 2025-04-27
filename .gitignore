@@ -1,0 +1,4 @@
+.venv
+git-assist
+.idea
+*.pyc
